@@ -1,0 +1,18 @@
+.country{
+    border: 3px solid slateblue;
+    border-radius: 17px;
+    padding: 10px;
+    margin: 15px;
+    gap: 8px;
+    grid-template-columns: repeat(3,1fr);
+    box-shadow: 4px 5px 2px 4px rgb(26, 14, 5);
+}
+.visited{
+    background-color: rgb(209, 65, 187);
+}
+#flag-icon{
+    max-width: 90px;
+}
+.btn{
+   background-color: darkorange;
+}
